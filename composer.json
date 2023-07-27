@@ -1,0 +1,23 @@
+{
+    "name": "a14e/oxford_word_skills",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "A14e\\OxfordWordSkills\\": "src/"
+        },
+        "files": [
+            "helpers/helper.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "amirziaee",
+            "email": "amir.fr2013@yahoo.com"
+        }
+    ],
+    "require": {
+        "catfan/medoo": "^2.1"
+    }
+
+}
